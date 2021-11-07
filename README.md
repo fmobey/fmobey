@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan Metin OĞUZ</h1>
 <h3 align="center">a little change can be nice</h3>
 
-- 🤝 I’m looking for help with **jh mobile**
-
-- 💬 Ask me about **flutter,C,python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
