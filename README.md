@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Furkan Metin OĞUZ</h1>
 <h3 align="center">a little change can be nice</h3>
+<div align="center" width="50">
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
 
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/fmobey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fmobey" height="30" width="40" /></a>
